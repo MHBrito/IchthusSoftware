@@ -1,0 +1,22 @@
+{
+   "theme": "light",
+   "3dgraph": "scatter",
+   "analyser_opt": "FindMolFeat",
+   "threshold_param": "S/N",
+   "threshold_opt": {
+      "active": "relative",
+      "inactive": "relative"
+   },
+   "threshold_value": {
+      "active": "10",
+      "inactive": "10"
+   },
+   "mz_tolerance": {
+      "active": "0.005",
+      "inactive": "0.005"
+   },
+   "rt_tolerance": {
+      "active": "0.1",
+      "inactive": "0.1"
+   }
+}
