@@ -11,4 +11,5 @@ Quezia Bezerra Cass,
 Larissa Ramos Guimaraes Da Silva,
 Juliana Maria de Lima.
 
-
+# Installation
+Download the install file (Ichthus1.0x64-Install) from: https://github.com/MHBrito/IchthusSoftware/releases. And run the installer.
